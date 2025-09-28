@@ -10,5 +10,6 @@ Reproducible with DVC.
 
 ### Clone the repo
 ```bash
-git clone https://github.com/mmosaib/zomato-ml.git
+git clone https://github.com/mmosaib/zomato-restaurant-analysis
+
 cd zomato-ml
